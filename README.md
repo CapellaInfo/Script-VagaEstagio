@@ -8,4 +8,4 @@
 ### - Esse projeto foi realizado em `hmtl e js`, consequentemente podemos abrir o projeto apenas clicando no diretório e depois clicando no arquivo `index.html`;
 ### - Também temos a opção de usar uma extensão dentro do VsCode, por exemplo `LiveServer`;
 
-## 🧑‍💻 [Rafael de Sousa Moura](https://github.com/rafaelmoura23)
+### 🧑‍💻 [Rafael de Sousa Moura](https://github.com/rafaelmoura23)
